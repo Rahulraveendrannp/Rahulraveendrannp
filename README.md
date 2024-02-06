@@ -36,7 +36,7 @@
 
 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I am currently working as a Software Engineer, where I contribute to both frontend and backend development for building web applications.
+- :telescope: I am currently working as a Software Engineer, where i contribute to both frontend and backend development for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
